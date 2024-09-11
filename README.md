@@ -8,7 +8,8 @@ Welcome to my repository where I document my daily problem-solving journey on Ha
 - **Purpose**: To share my solutions to coding challenges and track my problem-solving skills.
 
 ## Fetch and merge the remote changes: You need to fetch the changes from the remote and merge them into your local branch.
-``` git pull origin master
+```
+git pull origin master
 ```
 
 
