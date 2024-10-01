@@ -18,7 +18,7 @@ Feel free to visit my HackerRank profile to see my progress, skills, and certifi
 
 Feel free to visit my HackerRank profile to see my progress, skills, and certifications:
 
-[Visit my HackerRank Profile](https://www.hackerrank.com/suvammohapatra93)
+[Visit my HackerRank Profile](https://www.hackerrank.com/profile/suvammohapatra92)
 
 
 Thank you for visiting my repository!
